@@ -163,13 +163,23 @@ The site is also targeted at cafes as it provides another path to business.
 
 ## R5 - Wireframes
 
-[]!()
+![Wireframes-Home](./docs/Wireframes-HomePage.png)
 
-[]!()
+![Wireframes-Login](./docs/Wireframes-LoginRegister.png)
 
-[]!()
+![Wireframes-Search](./docs/Wireframes-SearchPageAndOrder.png)
 
-[]!()
+![Wireframes-Orders](./docs/Wireframes-Orders.png)
+
+![Wireframes-CafeMenu](./docs/Wireframes-CafeMenu.png)
+
+![Wireframes-Admin](./docs/Wireframes-Admin.png)
+
+![Wireframes-MobileAdmin](./docs/Wireframes-MobileTabletAdmin.png)
+
+![Wireframes-MobileOrder](./docs/Wireframes-MobileTabletOrderPage.png)
+
+![Wireframes-MobvileSearch](./docs/Wireframes-MobileTabletSearchPage.png)
 
 ---
 
