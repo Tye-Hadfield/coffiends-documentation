@@ -91,7 +91,7 @@ The site is also targeted at cafes as it provides another path to business.
 
 ![Dataflow Diagram - Login](./docs/CoffiendsDataFlow-Login.png)
 
-### Cafe Map & Ordering
+### Search Map & Ordering
 
 ![Dataflow Diagram - Ordering](./docs/CoffiendsDataFlow-Ordering.png)
 
@@ -180,6 +180,36 @@ The site is also targeted at cafes as it provides another path to business.
 ![Wireframes-MobileOrder](./docs/Wireframes-MobileTabletOrderPage.png)
 
 ![Wireframes-MobvileSearch](./docs/Wireframes-MobileTabletSearchPage.png)
+
+---
+
+## R6 - Trello Board
+
+[Trello Board](https://trello.com/b/63Bde7Yd/t3a2-nele-seb-tye)
+
+![Trello01](./docs/Trello-01.png)
+
+![Trello02](./docs/Trello-02.png)
+
+![Trello03](./docs/Trello-03.png)
+
+![Trello04](./docs/Trello-04.png)
+
+![Trello05](./docs/Trello-05.png)
+
+![Trello06](./docs/Trello-06.png)
+
+![Trello07](./docs/Trello-07.png)
+
+![Trello08](./docs/Trello-08.png)
+
+![Trello09](./docs/Trello-09.png)
+
+![Trello10](./docs/Trello-10.png)
+
+![Trello11](./docs/Trello-11.png)
+
+![Trello12](./docs/Trello-12.png)
 
 ---
 
